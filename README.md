@@ -166,9 +166,12 @@ document.write("<br>支払った人への払い戻し金額は<br>")
     for (var i=0; i<menu.length; i++){
       document.write(nama[i] + "さん：" + wari[i] + "円 <br>")
     }
-document.write ("<br>以上、お帰りも気を付けて、来年も元気に再開～(^^)/");
-    
+document.write ("<br>以上、お帰りも気を付けて、来年も元気に再開～(^^)/<br><br>");
+
 }
+    
+var str = "戻る";
+document.write(str.link("https://sajyan.github.io/seisan/"));
     
     </script>
     
