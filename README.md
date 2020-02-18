@@ -220,7 +220,7 @@ INPUTS.forEach(function(elm) {
     
         </script>
         </table>
-        </section>
+
 
     <footer><p>Inspired by <a href="https://www.softantenna.com/wp/webservice/exel-with-javascript/">http://thomasstreet.net/blog/spreadsheet.html</a>. Features:</p></footer>
 
