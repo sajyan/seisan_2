@@ -171,6 +171,9 @@ document.write ("<br>以上、お帰りも気を付けて、来年も元気に�
 var str = "戻る";
 document.write(str.link("https://sajyan.github.io/seisan_2/"));
 
+       document.bgColor = "#00ffd8";
+       document.fgColor = "blue";
+
 }
     
     </script>
