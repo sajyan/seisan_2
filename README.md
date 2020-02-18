@@ -72,8 +72,6 @@ body { background-color: #00fff5; }
 
 <h1><span class="blue"><strong>簡易計算シート付き、精算ページ</strong></span></h1>
 
-<section>
-
 <ul>
 <li> <input type="button" id="btn1" value="精算計算  " onclick="btn1Click();" /> 　←　支払い＆精算計算、開始ボタン</li>
 </ul>
