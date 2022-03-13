@@ -179,6 +179,7 @@ document.write(str.link("https://sajyan.github.io/seisan_2/"));
 <ul>
     <li>算出結果を以下の表に記録できます。（IE未対応）</li>
     <li>記録表には表計算機能( = + - * / )があります。</li>
+    <li>参照計算のセル指定例( = A1+B1)</li>
     <li>記録表の内容は、お使いのPCのブラウザ内に保存されます。（ほかの人には見えません）</li>
 </ul>
 
